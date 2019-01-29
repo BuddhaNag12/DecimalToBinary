@@ -8,17 +8,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+void findBinary();
 int binary=0;
 int main()
 {
-    int value=0;
     int end=0;
     int start=0;
     int i=0;
-    printf("enter start and end number:");
+    printf("Enter start range:");
     scanf("%d",&start);
+    printf("Enter The End range:");
      scanf("%d",&end);
+     puts("List of Binary in given range:\n");
     for(i=start;i<=end;i++)
     {
         printf("%d=",i);
