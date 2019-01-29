@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511799743 source:c:\users\bittu nag\documents\strings\decimalintobinary\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548781584 source:f:\myfiles\example programs\strings\decimalintobinary\main.c
+	<stdio.h>
+	<stdlib.h>
+
